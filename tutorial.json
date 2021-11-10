@@ -1,8 +1,8 @@
 {
-  "version": "0.0.3",
+  "version": "0.0.1",
   "summary": {
-    "title": "Timestamp Microservice",
-    "description": "> Welcome to the Timestamp Microservice certification project!"
+    "title": "Request Header Parser Microservice",
+    "description": "> Welcome to the Request Header Parser Microservice certification project!"
   },
   "config": {
     "setup": {
@@ -11,7 +11,7 @@
         "./.freeCodeCamp/reset.sh"
       ],
       "commits": [
-        "ad48c316b732fb5d8012b90d94d9c5f7d7cdac58"
+        "33a5c181fe7b421418a5d62958f3cb6324e8fec8"
       ]
     },
     "testRunner": {
@@ -22,8 +22,8 @@
       "directory": ".freeCodeCamp"
     },
     "repo": {
-      "uri": "https://github.com/moT01/learn-timestamp-microservice",
-      "branch": "v0.0.3"
+      "uri": "https://github.com/moT01/learn-request-header-parser-microservice",
+      "branch": "v0.0.1"
     },
     "reset": {
       "commands": [
@@ -41,8 +41,8 @@
     {
       "id": "1",
       "title": "Instructions",
-      "summary": "Install your project dependencies by entering `npm ci` from the `timestamp-mi...",
-      "content": "Install your project dependencies by entering `npm ci` from the `timestamp-microservice` folder in the terminal. After that, start your server by running `npm start`. Follow the instructions in the terminal to view your project web page. Don't forget that you need to restart your server in order for your code changes to take place. Pass all the user stories below to complete the project.",
+      "summary": "Install your project dependencies by entering `npm ci` from the `request-head...",
+      "content": "Install your project dependencies by entering `npm ci` from the `request-header-parser-microservice` folder in the terminal. After that, start your server by running `npm start`. Follow the instructions in the terminal to view your project web page. Don't forget that you need to restart your server in order for your code changes to take place. Pass all the user stories below to complete the project.",
       "steps": [
         {
           "id": "1.1",
@@ -58,7 +58,7 @@
           ],
           "setup": {
             "commits": [
-              "71c4740877e51a75cd38386e352785a2330bbe67"
+              "00984622f797a9ca1f724689817263857295a676"
             ]
           }
         }
